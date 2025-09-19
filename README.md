@@ -1,50 +1,75 @@
 ### Hi there 👋 I'm Abdelrahman Maher Abdelzaher  
 
-<a href="https://67e07bf8b44d5.site123.me/">
+<a href="https://github.com/Abd02006">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 </a>
 
 ---
 
 ## 🚀 About Me
-- 🎓 AI Engineer | Machine Learning & Data Analysis Enthusiast  
-- 💻 Skilled in **Python, C++, TensorFlow, Neural Networks, Data Analysis, C#**  
-- 📚 Studied **Artificial Intelligence Engineering** at *Ahram Canadian University*  
-- 🏆 Certification: **ALX** (2024)  
-- 🎤 Former **Director of Organizers** at *Ahram Canadian University (2024)*  
+- 🎓 AI & Computer Science Student | Aspiring AI Engineer  
+- 💻 Skilled in **C++, Python, Excel, Machine Learning, Deep Learning**  
+- 📚 Currently a **Bachelor’s student in AI Engineering** at *Ahram Canadian University* (GPA: 2.9)  
+- 🌱 Interested in **Data Analysis, AI, IT Support, and Software Development**  
+- 🤝 Strong in teamwork, adaptability, and problem-solving  
 
 ---
 
-## 🌍 Connect with me
-- 🌐 [Portfolio Website](https://67e07bf8b44d5.site123.me/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-maher-abdelzaher/)  
-- 🐙 [GitHub](https://github.com/Abd02006)  
+## 📞 Contact
+- 📧 Email: [maa46952@gmail.com](mailto:maa46952@gmail.com)  
+- 📱 Phone: [+20 100 365 2278](tel:+201003652278)  
+- 💼 LinkedIn: [linkedin.com/in/abdelrahman-](https://linkedin.com/in/abdelrahman-)  
+- 🐙 GitHub: [github.com/Abd02006](https://github.com/Abd02006)  
 
 ---
 
-## 🛠 Skills & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neural%20Networks-FF4F8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-1E90FF?style=for-the-badge"/>
-</p>
+## 🏆 Certifications
+- 🧑‍💻 **AI for Beginners** – HP Foundation *(May 2025)*  
+- 🤖 **Artificial Intelligence Ambassadors Program** – MCIT & ESE *(May 2025)*  
+- 📊 **Learning Data Analytics: Foundations** – LinkedIn Learning *(2021)*  
+- 🚀 **AI Career Essentials** – ALX *(2024)*  
+- 💡 **Entrepreneurship & Innovation Program** – InnovEgypt / ITIDA *(2025)*  
+- 💻 **Fundamentals of Programming & Networking** – NTI *(2021)*  
 
 ---
 
-## 📌 Projects
-- 🏪 Fashion Store Management System *(C++)*  
-- 🏠 Real Estate Management System *(C++)*  
-- 🤖 Machine Learning Models *(Python + TensorFlow)*  
-- 📊 Data Analysis Projects  
+## 💼 Experience
+- **Sales Representative** – Ain Company *(Jun 2023 – Sep 2023)*  
+  - Worked at age 17, developed communication & persuasion skills, achieved sales targets.  
+
+- **Intern – IT Support & Technical Fundamentals** – HP Training *(May 2025)*  
+  - Hands-on training in IT support, troubleshooting, and system maintenance.  
+
+- **Intern – Fundamentals of Programming & Networking** – NTI *(May 2025)*  
+  - Learned C++ programming, algorithms, and networking basics.  
+
+- **AI Career Essentials Trainee** – ALX *(2024)*  
+  - Gained teamwork, communication, and AI-augmented skills.  
+
+- **Trainee – Entrepreneurship & Innovation** – InnovEgypt / ITIDA *(2024)*  
+  - 45-hour program, developed startup project idea into business model.  
 
 ---
 
-## 🏅 Certifications
-- 🎓 ALX Software Engineering & AI (2024)  
-- 📚 More on my [Portfolio](https://67e07bf8b44d5.site123.me/)  
+## 📌 Academic & Personal Projects
+- 🏪 **Clothing Store Management System (C++)**  
+  Simulated real store operations: buying, selling, renting, returning.  
+
+- 🏠 **Real Estate Management System (C++)**  
+  Managed property transactions using OOP & inheritance.  
+
+- 🤵 **Suit Shop Management Application (C++)**  
+  Managed inventory & rentals with OOP and database interaction.  
+
+- 🏢 **Real Estate Agent Tool (C++)**  
+  Property listing management system with admin features.  
+
+---
+
+## 🛠 Skills
+- **Technical:** C++, Python, Excel, Machine Learning, Deep Learning  
+- **Interpersonal:** Communication, Teamwork, Problem-Solving, Adaptability  
+- **Languages:** Arabic (Native), English (Conversational)  
 
 ---
 
@@ -57,6 +82,7 @@
 ---
 
 ## ⚡ Fun Fact
-I love coding with a cup of ☕ and always chasing creative AI projects 🚀  
+I started my professional journey as a **sales representative at 17**, and now I’m building my career in **AI & Software Engineering** 🚀  
+
 
 
